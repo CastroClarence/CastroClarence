@@ -21,3 +21,11 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=castroclarence&show_icons=true&theme=tokyonight&locale=en" alt="castroclarence" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=castroclarence&theme=dark" alt="castroclarence" /></p>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/castroclarence/castroclarence/output/snake.svg" alt="Snake animation" />
+
+###
