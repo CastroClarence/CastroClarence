@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Django REST Framework**
 
-- 👨‍💻 All of my projects are available at [castroclarence.github.io](castroclarence.github.io)
+- 👨‍💻 All of my projects are available at [castroclarence.github.io](https://castroclarence.github.io)
 
 - 📫 How to reach me **castroclarenceb@gmail.com**
 
