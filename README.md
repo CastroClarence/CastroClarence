@@ -1,13 +1,13 @@
 <h1 align="center">Hi , I'm Clarence Joseph Castro</h1>
 <h3 align="center">A passionate software developer from Philippines</h3>
 
-- 🔭 I’m currently working on **LEONAIDAS**
+- 🔭 I’m currently working on **my skills**
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Django REST Framework**
 
 - 👨‍💻 All of my projects are available at [castroclarence.github.io](castroclarence.github.io)
 
-- 📫 How to reach me **tengbaroja@gmail.com**
+- 📫 How to reach me **castroclarenceb@gmail.com**
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
